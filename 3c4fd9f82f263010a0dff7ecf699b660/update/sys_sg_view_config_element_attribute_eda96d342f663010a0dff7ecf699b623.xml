@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>text_06_FieldLabel</description>
+        <name display_value="FieldLabel">c90fd1c2b7321010df65f6efce11a9d2</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-09 21:45:55</sys_created_on>
+        <sys_id>eda96d342f663010a0dff7ecf699b623</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>c90fd1c2b7321010df65f6efce11a9d2</sys_name>
+        <sys_package display_value="Shopping List" source="x_690161_shopping">3c4fd9f82f263010a0dff7ecf699b660</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">3c4fd9f82f263010a0dff7ecf699b660</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_eda96d342f663010a0dff7ecf699b623</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-09 21:46:18</sys_updated_on>
+        <translated_value/>
+        <value>purchased</value>
+        <view_config_element display_value="text_06_element">c42925742f663010a0dff7ecf699b6fe</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=eda96d342f663010a0dff7ecf699b623"/>
+</record_update>
